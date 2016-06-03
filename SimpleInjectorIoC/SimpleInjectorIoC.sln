@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInjectorIoC", "SimpleInjectorIoC\SimpleInjectorIoC.csproj", "{E79524BE-A5A3-46C6-91FF-C583B7CDFF55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInjector.MVC", "SimpleInjector.MVC\SimpleInjector.MVC.csproj", "{E8902A01-9CBB-48EC-8A52-AE12BE9AF008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E79524BE-A5A3-46C6-91FF-C583B7CDFF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E79524BE-A5A3-46C6-91FF-C583B7CDFF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E79524BE-A5A3-46C6-91FF-C583B7CDFF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8902A01-9CBB-48EC-8A52-AE12BE9AF008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8902A01-9CBB-48EC-8A52-AE12BE9AF008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8902A01-9CBB-48EC-8A52-AE12BE9AF008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8902A01-9CBB-48EC-8A52-AE12BE9AF008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
